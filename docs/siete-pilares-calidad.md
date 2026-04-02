@@ -1,6 +1,6 @@
 # Los 7 Bloques de Calidad en Ingeniería de Software
 
-
+[← README principal del repositorio](../README.md)
 
 ---
 
