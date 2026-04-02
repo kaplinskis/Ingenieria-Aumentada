@@ -6,6 +6,12 @@ Este repositorio reúne principios, guías y patrones de trabajo que combinan fu
 
 El manual aborda cómo diseñar sistemas, escribir código, tomar decisiones y colaborar en entornos donde la IA participa activamente en cada etapa—desde la ideación hasta la implementación y el mantenimiento. Al mismo tiempo, refuerza aspectos críticos como la claridad, la mantenibilidad, la validación y el pensamiento crítico.
 
+## Siete pilares de la calidad de ingeniería del software
+
+Marco para evaluar y mejorar la práctica en el proyecto. [Índice de los siete pilares](docs/siete-pilares-calidad.md).
+
+
+
 
 ## Contenido
 
